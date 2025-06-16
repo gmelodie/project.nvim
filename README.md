@@ -1,3 +1,5 @@
+
+# IMPORTANT: use [DrKJeff16's project.nvim fork](https://github.com/DrKJeff16/project.nvim) instead
 # 🗃️ project.nvim
 
 **project.nvim** is an all in one neovim plugin written in lua that provides
